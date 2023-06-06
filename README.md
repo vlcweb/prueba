@@ -8,3 +8,4 @@ y varios campos personalizados para el CPT en cuestión.<br>
 6- He maquetado una plantilla single solo para los Eventos Caninos.<br><br>
 
 El tema es responsive y he utilizado Bootstrap 5.<br>
+También he utilizado Sass para la compilación del archivo principal de CSS.

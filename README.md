@@ -9,8 +9,6 @@ y varios campos personalizados para el CPT en cuestión.<br>
 
 El tema es responsive y he utilizado Bootstrap 5.<br>
 He utilizado Sass para la compilación del archivo principal de CSS.<br>
-Subida la BBDD cactus.sql<br>
+Subida la BBDD cactus.sql<br><br>
 
-<strong>Sitio DEMO</strong>
-
-https://wac.vlcweb.es/
+<a href="https://wac.vlcweb.es" target="_blank"><strong>Sitio DEMO</strong></a>

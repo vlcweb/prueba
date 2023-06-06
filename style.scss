@@ -1,0 +1,77 @@
+/*
+Theme Name: Prueba We Are Cactus
+Theme URI: http://vlcweb.es
+Author: Jaime Fernández
+Author URI: http://vlcweb.es
+Description: Este es mi tema para la prueba técnica de We Are Cactus
+Version: 1.0
+License: GNU
+Tags: two-columns, bootstrap
+Text Domain: wearecactus
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
+
+.navbar-brand {
+    float: left;
+    height: auto !important;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse {    
+    justify-content: flex-end !important;
+	padding-right:250px !important;
+}
+
+.navbar-nav li a {
+	margin:0 10px !important;
+	color:#000;
+	font-size:16px;
+	font-family: 'Roboto', sans-serif !important;
+	
+}
+
+.container {
+	margin-top:50px !important;
+}
+h1, h2, h3, h4 {
+font-family: 'Roboto', sans-serif !important;	
+}
+
+p {
+font-family: 'Roboto', sans-serif !important;	
+}
+
+.cat {
+	display:inline-flex !important;
+}
+
+.cat p{	
+	margin:0 5px;
+}
+
+.p-3 h2 {
+	margin-top: 0 !important;
+}
+
+.p-3 p span {
+	font-weight:400 !important;
+}
+
+article figure img {
+	display:flex;
+	width:100% !important;
+	height:300px;	
+	object-fit:cover;	
+}
+
+
+.eventos figure img {
+	display:flex;
+	width:100% !important;
+	height:300px;	
+	object-fit:contain !important;	
+}
+
